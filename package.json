@@ -1,0 +1,14 @@
+{
+  "name": "webpack-benny-hill-plugin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "baptistelambert <bapthf2@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baptistelambert/webpack-benny-hill-plugin.git"
+  },
+  "dependencies": {
+    "play-sound": "^1.1.1"
+  }
+}
